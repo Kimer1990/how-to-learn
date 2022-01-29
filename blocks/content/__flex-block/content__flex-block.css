@@ -1,0 +1,7 @@
+.content__flex-block {
+  margin-top: 100px;
+}
+
+.content__flex-block:last-of-type {
+  margin-bottom: 217px;
+}
