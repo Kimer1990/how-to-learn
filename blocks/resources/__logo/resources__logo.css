@@ -2,4 +2,9 @@
   height: 38px;
   width: 270px;
   object-fit: contain;
+  transition: opacity 0.3s linear;
+}
+
+.resources__logo:hover {
+  opacity: 0.66;
 }
