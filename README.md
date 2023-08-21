@@ -35,7 +35,7 @@
 
 ## <a id="github" />Github Page:
 
-- [Ссылка на проект на Github Pages](https://isvakulenko.github.io/how-to-learn/index.html)
+- [Ссылка на проект на Github Pages](https://kimer1990.github.io/how-to-learn/index.html)
 
 ## <a id="tech" />Технологии, использованные при создании:
 
